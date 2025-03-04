@@ -1,7 +1,5 @@
-#include <stdio.h>
-
-int main() {
-    // Print a message
-    printf("Hello, World!\n");
-    return 0;
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
 }
